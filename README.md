@@ -16,7 +16,7 @@ UML (Unified Modeling Language) is a language used to visually model software sy
 
 ### UML Class Diagram Example
 
-![UML Class Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vsJ-9aZBKTG5oCOJWrRH4Q.png)
+![UML Class Diagram](https://raw.githubusercontent.com/MeNasy/UML_Diagram_Projects/main/UML_Diagram_Image.webp)
 
 ## Class Diagram Examples
 
